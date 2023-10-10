@@ -1,0 +1,24 @@
+.header {
+    width: 100%;
+    background: linear-gradient(to left, #762081, #f5a301);
+    display: flex;
+    justify-content: space-between;
+}
+.userContainerHeader{
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+    color: white;
+    display: flex;
+    gap: 1rem;
+}
+.logout{
+    height: 2.5rem;
+    margin-right: 2rem;
+}
+.logoTitle{
+    margin-left: 2rem;
+    color: white;
+}
+.userNameFont{
+    font-size: 1rem;
+}

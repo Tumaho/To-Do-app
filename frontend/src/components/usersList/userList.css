@@ -1,0 +1,10 @@
+.buttonsContainer{
+    display: contents;
+}
+.button{
+    margin-bottom: 1rem;
+}
+.userContainer{
+    display: flex;
+    justify-content: space-evenly;
+}

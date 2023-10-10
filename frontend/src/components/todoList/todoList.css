@@ -1,0 +1,32 @@
+.todoContainer {
+  width: 22rem;
+  background-color: black;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  opacity: 0.5;
+  border-radius: 2%;
+  margin-top: 3rem;
+  align-items: center;
+  min-height: 550px;
+}
+.mainCon{
+    text-align: -webkit-center;
+}
+.listGroupContainer{
+    text-align: left;
+}
+.listItemContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.actionsContainer{
+    display: flex;
+    gap: 2rem;
+}
+.addTask{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
